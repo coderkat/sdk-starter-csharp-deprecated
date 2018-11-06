@@ -6,7 +6,7 @@
 [![Build Status](https://travis-ci.org/TwilioDevEd/sdk-starter-csharp.svg?branch=master)](https://travis-ci.org/TwilioDevEd/sdk-starter-csharp)
 
 ## .NET Core 1.0.4 Project
-Warning - this application has not been updated for .NET Core 2.1 yet - it will run on .NET Core 1.0.4.
+Warning - this application has not been updated for .NET Core 2.1 yet - it will run on .NET Core 1.0.4. For the SDK Starter for .NET v.2.1.x, [see this repo instead](https://github.com/TwilioDevEd/sdk-starter-csharp).
 
 This sample project demonstrates how to use Twilio APIs in a C# web
 application. Once the app is up and running, check out [the home page](http://localhost:3000)
